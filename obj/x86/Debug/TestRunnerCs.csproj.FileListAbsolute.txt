@@ -1,0 +1,5 @@
+c:\documents and settings\leijm\my documents\visual studio 2010\Projects\TestRunnerCs\TestRunnerCs\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\leijm\my documents\visual studio 2010\Projects\TestRunnerCs\TestRunnerCs\bin\Debug\TestRunnerCs.exe
+c:\documents and settings\leijm\my documents\visual studio 2010\Projects\TestRunnerCs\TestRunnerCs\bin\Debug\TestRunnerCs.pdb
+c:\documents and settings\leijm\my documents\visual studio 2010\Projects\TestRunnerCs\TestRunnerCs\obj\x86\Debug\TestRunnerCs.exe
+c:\documents and settings\leijm\my documents\visual studio 2010\Projects\TestRunnerCs\TestRunnerCs\obj\x86\Debug\TestRunnerCs.pdb
